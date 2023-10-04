@@ -4,9 +4,9 @@ The Bookworm application allows users to conduct in-depth searches for books and
 
 # Used Technologies
 
-. React
-. Axios
-. React Router Dom
-. JSON Server
-. Bootstrap
+. React </br>
+. Axios </br>
+. React Router Dom </br>
+. JSON Server </br>
+. Bootstrap </br>
 
